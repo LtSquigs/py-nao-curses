@@ -1,0 +1,965 @@
+0: Giant ant
+1: Killer bee
+2: Soldier ant
+3: Fire ant
+4: Giant beetle
+5: Queen bee
+6: Acid blob
+7: Quivering blob
+8: Gelatinous cube
+9: Chickatrice
+10: Cockatrice
+11: Pyrolisk
+12: Jackal
+13: Fox
+14: Coyote
+15: Werejackal
+16: Little dog
+17: Dog
+18: Large dog
+19: Dingo
+20: Wolf
+21: Werewolf
+22: Warg
+23: Winter wolf cub
+24: Winter wolf
+25: Hell hound pup
+26: Hell hound
+27: Cerberus
+28: Gas spore
+29: Floating eye
+30: Freezing sphere
+31: Flaming sphere
+32: Shocking sphere
+33: Beholder
+34: Kitten
+35: Housecat
+36: Jaguar
+37: Lynx
+38: Panther
+39: Large cat
+40: Tiger
+41: Gremlin
+42: Gargoyle
+43: Winged gargoyle
+44: Hobbit
+45: Dwarf
+46: Bugbear
+47: Dwarf lord
+48: Dwarf king
+49: Mind flayer
+50: Master mind flayer
+51: Manes
+52: Homunculus
+53: Imp
+54: Lemure
+55: Quasit
+56: Tengu
+57: Blue jelly
+58: Spotted jelly
+59: Ochre jelly
+60: Kobold
+61: Large kobold
+62: Kobold lord
+63: Kobold shaman
+64: Leprechaun
+65: Small mimic
+66: Large mimic
+67: Giant mimic
+68: Wood nymph
+69: Water nymph
+70: Mountain nymph
+71: Goblin
+72: Hobgoblin
+73: Orc
+74: Hill orc
+75: Mordor orc
+76: Uruk-hai
+77: Orc shaman
+78: Orc-captain
+79: Rock piercer
+80: Iron piercer
+81: Glass piercer
+82: Rothe
+83: Mumak
+84: Leocrotta
+85: Wumpus
+86: Titanothere
+87: Baluchitherium
+88: Mastodon
+89: Sewer rat
+90: Giant rat
+91: Rabid rat
+92: Wererat
+93: Rock mole
+94: Woodchuck
+95: Cave spider
+96: Centipede
+97: Giant spider
+98: Scorpion
+99: Lurker above
+100: Trapper
+101: White unicorn
+102: Gray unicorn
+103: Black unicorn
+104: Pony
+105: Horse
+106: Warhorse
+107: Fog cloud
+108: Dust vortex
+109: Ice vortex
+110: Energy vortex
+111: Steam vortex
+112: Fire vortex
+113: Baby long worm
+114: Baby purple worm
+115: Long worm
+116: Purple worm
+117: Grid bug
+118: Xan
+119: Yellow light
+120: Black light
+121: Zruty
+122: Couatl
+123: Aleax
+124: Angel
+125: Ki-rin
+126: Archon
+127: Bat
+128: Giant bat
+129: Raven
+130: Vampire bat
+131: Plains centaur
+132: Forest centaur
+133: Mountain centaur
+134: Baby gray dragon
+135: Baby silver dragon
+136: Baby shimmering dragon
+137: Baby red dragon
+138: Baby white dragon
+139: Baby orange dragon
+140: Baby black dragon
+141: Baby blue dragon
+142: Baby green dragon
+143: Baby yellow dragon
+144: Gray dragon
+145: Silver dragon
+146: Shimmering dragon
+147: Red dragon
+148: White dragon
+149: Orange dragon
+150: Black dragon
+151: Blue dragon
+152: Green dragon
+153: Yellow dragon
+154: Stalker
+155: Air elemental
+156: Fire elemental
+157: Earth elemental
+158: Water elemental
+159: Lichen
+160: Brown mold
+161: Yellow mold
+162: Green mold
+163: Red mold
+164: Shrieker
+165: Violet fungus
+166: Gnome
+167: Gnome lord
+168: Gnomish wizard
+169: Gnome king
+170: Giant
+171: Stone giant
+172: Hill giant
+173: Fire giant
+174: Frost giant
+175: Storm giant
+176: Ettin
+177: Titan
+178: Minotaur
+179: Jabberwock
+180: Vorpal jabberwock
+181: Keystone kop
+182: Kop sergeant
+183: Kop lieutenant
+184: Kop kaptain
+185: Lich
+186: Demilich
+187: Master lich
+188: Arch-lich
+189: Kobold mummy
+190: Gnome mummy
+191: Orc mummy
+192: Dwarf mummy
+193: Elf mummy
+194: Human mummy
+195: Ettin mummy
+196: Giant mummy
+197: Red naga hatchling
+198: Black naga hatchling
+199: Golden naga hatchling
+200: Guardian naga hatchling
+201: Red naga
+202: Black naga
+203: Golden naga
+204: Guardian naga
+205: Ogre
+206: Ogre lord
+207: Ogre king
+208: Gray ooze
+209: Brown pudding
+210: Black pudding
+211: Green slime
+212: Quantum mechanic
+213: Rust monster
+214: Disenchanter
+215: Garter snake
+216: Snake
+217: Water moccasin
+218: Pit viper
+219: Python
+220: Cobra
+221: Troll
+222: Ice troll
+223: Rock troll
+224: Water troll
+225: Olog-hai
+226: Umber hulk
+227: Vampire
+228: Vampire lord
+229: Vampire mage
+230: Vlad the impaler
+231: Barrow wight
+232: Wraith
+233: Nazgul
+234: Xorn
+235: Monkey
+236: Ape
+237: Owlbear
+238: Yeti
+239: Carnivorous ape
+240: Sasquatch
+241: Kobold zombie
+242: Gnome zombie
+243: Orc zombie
+244: Dwarf zombie
+245: Elf zombie
+246: Human zombie
+247: Ettin zombie
+248: Giant zombie
+249: Ghoul
+250: Skeleton
+251: Straw golem
+252: Paper golem
+253: Rope golem
+254: Gold golem
+255: Leather golem
+256: Wood golem
+257: Flesh golem
+258: Clay golem
+259: Stone golem
+260: Glass golem
+261: Iron golem
+262: Human
+263: Wererat
+264: Werejackal
+265: Werewolf
+266: Elf
+267: Woodland-elf
+268: Green-elf
+269: Grey-elf
+270: Elf-lord
+271: Elvenking
+272: Doppelganger
+273: Nurse
+274: Shopkeeper
+275: Guard
+276: Prisoner
+277: Oracle
+278: Aligned priest
+279: High priest
+280: Soldier
+281: Sergeant
+282: Lieutenant
+283: Captain
+284: Watchman
+285: Watch captain
+286: Medusa
+287: Wizard of yendor
+288: Croesus
+289: Charon
+290: Ghost
+291: Shade
+292: Water demon
+293: Horned devil
+294: Succubus
+295: Incubus
+296: Erinys
+297: Barbed devil
+298: Marilith
+299: Vrock
+300: Hezrou
+301: Bone devil
+302: Ice devil
+303: Nalfeshnee
+304: Pit fiend
+305: Balrog
+306: Juiblex
+307: Yeenoghu
+308: Orcus
+309: Geryon
+310: Dispater
+311: Baalzebub
+312: Asmodeus
+313: Demogorgon
+314: Death
+315: Pestilence
+316: Famine
+317: Mail daemon
+318: Djinni
+319: Sandestin
+320: Jellyfish
+321: Piranha
+322: Shark
+323: Giant eel
+324: Electric eel
+325: Kraken
+326: Newt
+327: Gecko
+328: Iguana
+329: Baby crocodile
+330: Lizard
+331: Chameleon
+332: Crocodile
+333: Salamander
+334: Long worm tail
+335: Archeologist
+336: Barbarian
+337: Caveman
+338: Cavewoman
+339: Healer
+340: Knight
+341: Monk
+342: Priest
+343: Priestess
+344: Ranger
+345: Rogue
+346: Samurai
+347: Tourist
+348: Valkyrie
+349: Wizard
+350: Lord carnarvon
+351: Pelias
+352: Shaman karnov
+353: Earendil
+354: Elwing
+355: Hippocrates
+356: King arthur
+357: Grand master
+358: Arch priest
+359: Orion
+360: Master of thieves
+361: Lord sato
+362: Twoflower
+363: Norn
+364: Neferet the green
+365: Minion of huhetotl
+366: Thoth amon
+367: Chromatic dragon
+368: Goblin king
+369: Cyclops
+370: Ixoth
+371: Master kaen
+372: Nalzok
+373: Scorpius
+374: Master assassin
+375: Ashikaga takauji
+376: Lord surtur
+377: Dark one
+378: Student
+379: Chieftain
+380: Neanderthal
+381: High-elf
+382: Attendant
+383: Page
+384: Abbot
+385: Acolyte
+386: Hunter
+387: Thug
+388: Ninja
+389: Roshi
+390: Guide
+391: Warrior
+392: Apprentice
+393: Invisible monster
+394: Strange object
+395: Arrow
+396: Elven arrow
+397: Orcish arrow
+398: Silver arrow
+399: Ya
+400: Crossbow bolt
+401: Dart
+402: Shuriken
+403: Boomerang
+404: Spear
+405: Elven spear
+406: Orcish spear
+407: Dwarvish spear
+408: Silver spear
+409: Javelin
+410: Trident
+411: Dagger
+412: Elven dagger
+413: Orcish dagger
+414: Silver dagger
+415: Athame
+416: Scalpel
+417: Knife
+418: Stiletto
+419: Worm tooth
+420: Crysknife
+421: Axe
+422: Battle-axe
+423: Short sword
+424: Elven short sword
+425: Orcish short sword
+426: Dwarvish short sword
+427: Scimitar
+428: Silver saber
+429: Broadsword
+430: Elven broadsword
+431: Long sword
+432: Two-handed sword
+433: Katana
+434: Tsurugi
+435: Runesword
+436: Partisan
+437: Ranseur
+438: Spetum
+439: Glaive
+440: Lance
+441: Halberd
+442: Bardiche
+443: Voulge
+444: Dwarvish mattock
+445: Fauchard
+446: Guisarme
+447: Bill-guisarme
+448: Lucern hammer
+449: Bec de corbin
+450: Mace
+451: Morning star
+452: War hammer
+453: Club
+454: Rubber hose
+455: Quarterstaff
+456: Aklys
+457: Flail
+458: Bullwhip
+459: Bow
+460: Elven bow
+461: Orcish bow
+462: Yumi
+463: Sling
+464: Crossbow
+465: Elven leather helm
+466: Orcish helm
+467: Dwarvish iron helm
+468: Fedora
+469: Conical hat
+470: Conical hat
+471: Dented pot
+472: Plumed helmet
+473: Etched helmet
+474: Crested helmet
+475: Visored helmet
+476: Gray dragon scale mail
+477: Silver dragon scale mail
+478: Shimmering dragon scale mail
+479: Red dragon scale mail
+480: White dragon scale mail
+481: Orange dragon scale mail
+482: Black dragon scale mail
+483: Blue dragon scale mail
+484: Green dragon scale mail
+485: Yellow dragon scale mail
+486: Gray dragon scales
+487: Silver dragon scales
+488: Shimmering dragon scales
+489: Red dragon scales
+490: White dragon scales
+491: Orange dragon scales
+492: Black dragon scales
+493: Blue dragon scales
+494: Green dragon scales
+495: Yellow dragon scales
+496: Plate mail
+497: Crystal plate mail
+498: Bronze plate mail
+499: Splint mail
+500: Banded mail
+501: Dwarvish mithril-coat
+502: Elven mithril-coat
+503: Chain mail
+504: Orcish chain mail
+505: Scale mail
+506: Studded leather armor
+507: Ring mail
+508: Orcish ring mail
+509: Leather armor
+510: Leather jacket
+511: Hawaiian shirt
+512: T-shirt
+513: Mummy wrapping
+514: Elven cloak
+515: Orcish cloak
+516: Dwarvish cloak
+517: Oilskin cloak
+518: Robe
+519: Alchemy smock
+520: Leather cloak
+521: Tattered cape
+522: Opera cloak
+523: Ornamental cope
+524: Piece of cloth
+525: Small shield
+526: Elven shield
+527: Uruk-hai shield
+528: Orcish shield
+529: Large shield
+530: Dwarvish roundshield
+531: Shield of reflection
+532: Leather gloves
+533: Padded gloves
+534: Riding gloves
+535: Fencing gloves
+536: Low boots
+537: Iron shoes
+538: High boots
+539: Combat boots
+540: Jungle boots
+541: Hiking boots
+542: Mud boots
+543: Buckled boots
+544: Riding boots
+545: Snow boots
+546: Wooden ring
+547: Granite ring
+548: Opal ring
+549: Clay ring
+550: Coral ring
+551: Black onyx ring
+552: Moonstone ring
+553: Tiger eye ring
+554: Jade ring
+555: Bronze ring
+556: Agate ring
+557: Topaz ring
+558: Sapphire ring
+559: Ruby ring
+560: Diamond ring
+561: Pearl ring
+562: Iron ring
+563: Brass ring
+564: Copper ring
+565: Twisted ring
+566: Steel ring
+567: Silver ring
+568: Gold ring
+569: Ivory ring
+570: Emerald ring
+571: Wire ring
+572: Engagement ring
+573: Shiny ring
+574: Circular amulet
+575: Spherical amulet
+576: Oval amulet
+577: Triangular amulet
+578: Pyramidal amulet
+579: Square amulet
+580: Concave amulet
+581: Hexagonal amulet
+582: Octagonal amulet
+583: Amulet of yendor
+584: Amulet of yendor
+585: Large box
+586: Chest
+587: Ice box
+588: Bag
+589: Bag
+590: Bag
+591: Bag
+592: Skeleton key
+593: Lock pick
+594: Credit card
+595: Candle
+596: Candle
+597: Brass lantern
+598: Lamp
+599: Lamp
+600: Expensive camera
+601: Mirror
+602: Crystal ball
+603: Lenses
+604: Blindfold
+605: Towel
+606: Saddle
+607: Leash
+608: Stethoscope
+609: Tinning kit
+610: Tin opener
+611: Can of grease
+612: Figurine
+613: Magic marker
+614: ??? (could not identify)
+615: Beartrap
+616: Whistle
+617: Whistle
+618: Flute
+619: Flute
+620: Horn
+621: Horn
+622: Horn
+623: Horn
+624: Harp
+625: Harp
+626: Bell
+627: Bugle
+628: Drum
+629: Drum
+630: Pick-axe
+631: Grappling hook
+632: Unicorn horn
+633: Candelabrum of invocation
+634: Bell of opening
+635: Tripe ration
+636: Corpse
+637: Egg
+638: Meatball
+639: Meat stick
+640: Huge chunk of meat
+641: Meat ring
+642: Kelp frond
+643: Eucalyptus leaf
+644: Apple
+645: Orange
+646: Pear
+647: Melon
+648: Banana
+649: Carrot
+650: Sprig of wolfsbane
+651: Clove of garlic
+652: Slime mold
+653: Lump of royal jelly
+654: Cream pie
+655: Candy bar
+656: Fortune cookie
+657: Pancake
+658: Lembas wafer
+659: Cram ration
+660: Food ration
+661: K-ration
+662: C-ration
+663: Tin
+664: Ruby potion
+665: Pink potion
+666: Orange potion
+667: Yellow potion
+668: Emerald potion
+669: Dark green potion
+670: Cyan potion
+671: Sky blue potion
+672: Brilliant blue potion
+673: Magenta potion
+674: Purple-red potion
+675: Puce potion
+676: Milky potion
+677: Swirly potion
+678: Bubbly potion
+679: Smoky potion
+680: Cloudy potion
+681: Effervescent potion
+682: Black potion
+683: Golden potion
+684: Brown potion
+685: Fizzy potion
+686: Dark potion
+687: White potion
+688: Murky potion
+689: Clear potion
+690: Scroll
+691: Scroll
+692: Scroll
+693: Scroll
+694: Scroll
+695: Scroll
+696: Scroll
+697: Scroll
+698: Scroll
+699: Scroll
+700: Scroll
+701: Scroll
+702: Scroll
+703: Scroll
+704: Scroll
+705: Scroll
+706: Scroll
+707: Scroll
+708: Scroll
+709: Scroll
+710: Scroll
+711: Scroll
+712: Scroll
+713: Scroll
+714: Scroll
+715: Scroll of mail
+716: Scroll of blank paper
+717: Parchment spellbook
+718: Vellum spellbook
+719: Ragged spellbook
+720: Dog eared spellbook
+721: Mottled spellbook
+722: Stained spellbook
+723: Cloth spellbook
+724: Leather spellbook
+725: White spellbook
+726: Pink spellbook
+727: Red spellbook
+728: Orange spellbook
+729: Yellow spellbook
+730: Velvet spellbook
+731: Light green spellbook
+732: Dark green spellbook
+733: Turquoise spellbook
+734: Cyan spellbook
+735: Light blue spellbook
+736: Dark blue spellbook
+737: Indigo spellbook
+738: Magenta spellbook
+739: Purple spellbook
+740: Violet spellbook
+741: Tan spellbook
+742: Plaid spellbook
+743: Light brown spellbook
+744: Dark brown spellbook
+745: Gray spellbook
+746: Wrinkled spellbook
+747: Dusty spellbook
+748: Bronze spellbook
+749: Copper spellbook
+750: Silver spellbook
+751: Gold spellbook
+752: Glittering spellbook
+753: Shining spellbook
+754: Dull spellbook
+755: Thin spellbook
+756: Thick spellbook
+757: Plain spellbook
+758: Papyrus spellbook
+759: Glass wand
+760: Balsa wand
+761: Crystal wand
+762: Maple wand
+763: Pine wand
+764: Oak wand
+765: Ebony wand
+766: Marble wand
+767: Tin wand
+768: Brass wand
+769: Copper wand
+770: Silver wand
+771: Platinum wand
+772: Iridium wand
+773: Zinc wand
+774: Aluminum wand
+775: Uranium wand
+776: Iron wand
+777: Steel wand
+778: Hexagonal wand
+779: Short wand
+780: Runed wand
+781: Long wand
+782: Curved wand
+783: Forked wand
+784: Spiked wand
+785: Jeweled wand
+786: Gold piece
+787: White gem
+788: White gem
+789: Red gem
+790: Orange gem
+791: Blue gem
+792: Black gem
+793: Green gem
+794: Green gem
+795: Yellow gem
+796: Green gem
+797: Yellowish brown gem
+798: Yellowish brown gem
+799: Black gem
+800: White gem
+801: Yellow gem
+802: Red gem
+803: Violet gem
+804: Red gem
+805: Violet gem
+806: Black gem
+807: Orange gem
+808: Green gem
+809: White gem
+810: Blue gem
+811: Red gem
+812: Yellowish brown gem
+813: Orange gem
+814: Yellow gem
+815: Black gem
+816: Green gem
+817: Violet gem
+818: Gray stone
+819: Gray stone
+820: Gray stone
+821: Gray stone
+822: Rock
+823: Boulder
+824: Statue
+825: Heavy iron ball
+826: Iron chain
+827: Blinding venom
+828: Acid venom
+829: Darkness
+830: Wall
+831: Wall
+832: Wall
+833: Wall 
+834: Wall
+835: Wall
+836: Wall
+837: Wall
+838: Wall 
+839: Wall
+840: Wall
+841: Doorway (no door)
+842: Open door 
+843: Open door
+844: Closed door
+845: Closed door
+846: Iron bars
+847: Tree
+848: Floor 
+849: Unlit corridor 
+850: Lit corridor
+851: Staircase up
+852: Staircase down
+853: Ladder up
+854: Ladder down
+855: Altar
+856: Grave
+857: Throne
+858: Sink
+859: Fountain
+860: Water
+861: Ice
+862: Molten lava
+863: Lowered drawbridge
+864: Lowered drawbridge
+865: Raised drawbridge
+866: Raised drawbridge
+867: Air
+868: Cloud
+869: Air (? blue)
+870: Arrow trap
+871: Dart trap
+872: Falling rock trap
+873: Squeaky board
+874: Bear trap
+875: Land mine
+876: Rolling boulder trap
+877: Sleeping gas trap
+878: Rust trap
+879: Fire trap
+880: Pit
+881: Spiked pit
+882: Hole
+883: Trap door
+884: Teleportation trap
+885: Level teleporter
+886: Magic portal
+887: Web
+888: Statue trap
+889: Magic trap
+890: Anti magic field
+891: Polymorph trap
+1007: Warning 0
+1008: Warning 1
+1009: Warning 2
+1010: Warning 3
+1011: Warning 4
+1012: Warning 5
+1013: Rock
+1014: Rock
+1015: Rock
+1016: Rock
+1017: Rock
+1018: Rock
+1019: Rock
+1020: Rock
+1021: Rock
+1022: Rock
+1023: Rock
+1024: Wall
+1025: Wall
+1026: Wall
+1027: Wall
+1028: Wall
+1029: Wall
+1030: Wall
+1031: Wall
+1032: Wall
+1033: Wall
+1034: Wall
+1035: Rock
+1036: Rock
+1037: Rock
+1038: Rock
+1039: Rock
+1040: Rock
+1041: Rock
+1042: Rock
+1043: Rock
+1044: Rock
+1045: Rock
+1046: Wall
+1047: Wall
+1048: Wall
+1049: Wall
+1050: Wall
+1051: Wall
+1052: Wall
+1053: Wall
+1054: Wall
+1055: Wall
+1056: Wall
+1056: Darkness
+1057: Darkness
+1058: Darkness
+1059: Darkness
+1061: Darkness
+1062: Darkness
+1063: Darkness
+1064: Darkness
+1065: Darkness
+1066: Darkness
+1067: Darkness
+1068: Darkness
+1069: Darkness
+1070: Darkness
+1071: Darkness
+1072: Darkness
+1073: Darkness
+1074: Darkness
+1075: Darkness
+1076: Darkness
+1077: Darkness
+1078: Darkness
+1079: Darkness
