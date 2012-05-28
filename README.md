@@ -8,7 +8,7 @@ Features
 
 ### Completed
 * In Nethack, clicking on spots will give information on the spots based off tiles, similar to far look (;)
-* 
+
 ### Planned
 * Seperating Nethack information into windows based off vt\_tiledata
 
