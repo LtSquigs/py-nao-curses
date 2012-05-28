@@ -21,13 +21,18 @@ In order to install just grab the repo:
 
 	git clone git@github.com:LtSquigs/py-nao-curses.git
 
-Then run the main python file
+Then run the main python file:
 
 	python main.py
 
 Usage
 -----
 	python main.py
+	
+Data Files
+----------
+
+* The file 'tiles' contains a list of all nethack tile ids and their names seperated by ':'.
 
 Debugging
 ---------
