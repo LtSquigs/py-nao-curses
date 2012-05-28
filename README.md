@@ -18,9 +18,11 @@ Installation
 In order to use this client, you must be running some form of nix (as it relies on curses).
 
 In order to install just grab the repo:
+
 	git clone git@github.com:LtSquigs/py-nao-curses.git
 
 Then run the main python file
+
 	python main.py
 
 Usage
