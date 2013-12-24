@@ -7,6 +7,7 @@ def main(stdscr):
 	term = terminalEmulator.TerminalEmulator(stdscr)
 	term.set_debugLevel(0)
 	
+	ß
 	client = telnetClient.TelnetClient()
 	client.connect()
 
